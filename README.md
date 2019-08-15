@@ -6,3 +6,6 @@
 
 ## Image Credits
 The images of chess pieces used in this project are from the Wikimedia Commons and were created by user _Cburnett_. You can find them [here](https://en.wikipedia.org/wiki/Chess_piece#/media/File:Chess_klt45.svg).
+
+## Gameplay
+![Chess Demonstration](/ChessDemonstration.gif?raw=true)
